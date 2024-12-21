@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WindowsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1781A4F-5570-4B36-9988-859D950B9D3D}|WindowsApp1\\WindowsApp1.vbproj|d:\\windowsapp1\\windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B1781A4F-5570-4B36-9988-859D950B9D3D}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1781A4F-5570-4B36-9988-859D950B9D3D}|WindowsApp1\\WindowsApp1.vbproj|D:\\WindowsApp1\\windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B1781A4F-5570-4B36-9988-859D950B9D3D}|WindowsApp1\\WindowsApp1.vbproj|solutionrelative:windowsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\WindowsApp1\\WindowsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Form1.vb",
+              "ToolTip": "D:\\WindowsApp1\\WindowsApp1\\Form1.vb",
+              "RelativeToolTip": "WindowsApp1\\Form1.vb",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAQwD8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-20T18:05:10.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\WindowsApp1\\WindowsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "WindowsApp1\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\testapp\\WindowsApp1\\WindowsApp1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-20T17:44:12.21Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
